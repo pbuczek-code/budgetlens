@@ -2,7 +2,7 @@
 
 BudgetLens is an interactive Python dashboard for analyzing personal finance CSV exports. It normalizes messy bank files, categorizes transactions, detects unusual spending, tracks budgets, finds recurring payments, and exports clean reports.
 
-![BudgetLens overview](assets/screenshots/overview.png)
+![BudgetLens overview](assets/screenshots/Overview.png)
 
 ## Why This Project Exists
 
@@ -28,19 +28,19 @@ Most bank exports are useful but annoying: inconsistent column names, different 
 
 ### Transaction Search
 
-![BudgetLens search](assets/screenshots/search.png)
+![BudgetLens search](assets/screenshots/Search.png)
 
 ### Budget Tracking
 
-![BudgetLens budgets](assets/screenshots/budgets.png)
+![BudgetLens budgets](assets/screenshots/Budget.png)
 
 ### Spending Forecast
 
-![BudgetLens forecast](assets/screenshots/forecast.png)
+![BudgetLens forecast](assets/screenshots/Forecast.png)
 
 ### Export Center
 
-![BudgetLens exports](assets/screenshots/exports.png)
+![BudgetLens exports](assets/screenshots/Exports.png)
 
 ## Tech Stack
 
